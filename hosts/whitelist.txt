@@ -57,7 +57,6 @@ gw.line.naver.jp # will break line pay, line points
 nelo2-col.linecorp.com # break line message loading
 today.line.me.edgekey.net # Line Today
 e1102.a.akamaiedge.net
-liffsdk.line-scdn.net # Line Taxi
 api.line.me # Line reward point
  
 # app.github.media
@@ -346,7 +345,6 @@ adashx.m.taobao.com
 amdc.m.taobao.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
-at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 g.alicdn.com
 app.alipay.com
@@ -417,7 +415,6 @@ etl.tindersparks.com # Tinder iOS app to work, specifically, SMS verification # 
 static-xl9-ssl.xunlei.com
 img2.user.kanimg.com
 pc.xunlei.com
-static-xl9-ssl.xunlei.com
 upgrade.xl9.xunlei.com
 hub5pn.sandai.net
 hubciddata.sandai.net
@@ -430,7 +427,6 @@ joint.reg2t.sandai.net
 client.update.sandai.net
 portal.client.xunlei.com
 interface.xl9.xunlei.com
-portal.client.xunlei.com
 msg2.client.xunlei.com
 tw03a159.sandai.net
 
@@ -520,9 +516,7 @@ cdnjs.cloudflare.com
 cdn.ravenjs.com
 links.iterable.com
 cdn.flurry.com
-cdn.ravenjs.com
 fast.wistia.com
-cdn.ravenjs.com
 csdnimg.cn
 cdn.auth0.com
 js-agent.newrelic.com
@@ -566,7 +560,6 @@ youtubei.googleapis.com
 ytimg-edge-static.l.google.com
 s.youtube.com
 android.clients.google.com  # Android play
-android.l.google.com # Android play
 googleapis.l.google.com
 play.googleapis.com
 www.gstatic.com
@@ -581,12 +574,8 @@ clients5.google.com
 clients6.google.com
 encrypted-tbn0.gstatic.com
 ssl.gstatic.com
-fonts.gstatic.com
 i.ytimg.com
-ytimg-edge-static.l.google.com
-photos-ugc.l.googleusercontent.com
 accounts.google.com
-www.googleapis.com
 redirector.googlevideo.com
 suggestqueries.google.com
 
@@ -595,7 +584,6 @@ instagram.c10r.facebook.com
 cdninstagram.com
 scontent.cdninstagram.com
 curvesncombatboots.com
-instagram.c10r.facebook.com
 
 ## Facebook
 z-m.c10r.facebook.com # CNAME of l.facebook.com
@@ -608,7 +596,6 @@ l.facebook.com # https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-co
 mobile.beta.facebook.com
 mobile.facebook.com
 web.beta.facebook.com
-web.facebook.com
 zero.facebook.com
 b-www.facebook.com
 free.facebook.com
@@ -640,7 +627,6 @@ s-static.ak.facebook.com
 apps.facebook.com
 ct-m-fbx.fbsbx.com
 z-m.facebook.com
-z-m.c10r.facebook.com
 lm.facebook.com
 m.facebook.com
 static.xx.fbcdn.net
@@ -660,7 +646,6 @@ star.c10r.facebook.com
 mqtt.c10r.facebook.com
 
 # Mozilla
-detectportal.firefox.com # is used to detect captive portals on public wifi networks to be able to redirect you to their logon screen
 shavar.services.mozilla.com # is used to update the list of trackers that are getting blocked when tracking protection is turned on
 push.services.mozilla.com
 updates.push.services.mozilla.com
@@ -671,7 +656,6 @@ location.services.mozilla.com
 incoming.telemetry.mozilla.org
 
 # Tinder app sms verification
-etl.tindersparks.com
 
 # Xiaomi payment 
 metok.sys.miui.com
@@ -695,7 +679,6 @@ cdn.optimizely.com # Used by Origin for content delivery
 
 Blocked by Mahakala
 # Used by Facebook for image uploads
-res.cloudinary.com 
 gravatar.com
 rover.ebay.com
 imgs.xkcd.com
@@ -761,7 +744,6 @@ secure.aadcdn.microsoftonline-p.com # Outlook.com logo
 g00.msn.com
 www.sdad.guru
 c.msn.com
-activity.windows.com # Sync 
 
 # Windows 10 update
 au.download.windowsupdate.com
@@ -785,7 +767,6 @@ v4.download.windowsupdate.com
 windowsupdate.com
 windowupdate.org
 wdcp.microsoft.com # Windows defender
-wdcpalt.microsoft.com # https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
 
 ## https://docs.microsoft.com/en-us/windows/privacy/manage-windows-endpoints
 cs9.wac.phicdn.net # endpoints are used by the Verizon Content Delivery Network to perform Windows updates
@@ -823,17 +804,14 @@ swcdn.apple.com.akadns.net
 lcdn-locator.apple.com.akadns.net
 itunes.apple.com
 appleid.apple.com
-captive.apple.com 
 gsp1.apple.com
 
 # Xbox live
 xbox.ipv6.microsoft.com 
 device.auth.xboxlive.com 
-www.msftncsi.com 
 title.mgt.xboxlive.com 
 xsts.auth.xboxlive.com 
 title.auth.xboxlive.com 
-ctldl.windowsupdate.com 
 attestation.xboxlive.com 
 xboxexperiencesprod.experimentation.xboxlive.com 
 xflight.xboxlive.com 
@@ -863,7 +841,6 @@ cvp1.cdn.turner.com
 z.cdn.turner.com
 
 # OCSP-Servers 
-ocsp.digicert.com
 ocsp.verisign.com
 ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
@@ -906,11 +883,9 @@ tg1.premium.dc11.wix.com
 www17.wixdns.net
 tg1.premium.db4.wix.com
 balancer.wixdns.net
-tg1.premium.db4.wix.com
 
 # VK.com
 vk.com
-pp.userapi.com
 userapi.com
 
 #tianya.cn
@@ -1002,7 +977,6 @@ safe.txmblr.com
 f.youku.com
 140cc.v.fwmrm.net
 viarnd.112.2o7.net
-cdn.gotraffic.net
 go.trouter.io
 release.theplatform.com
 
@@ -1027,7 +1001,6 @@ api.cloudflareapps.com
 api.mapbox.com
 tiles.mapbox.com
 events.mapbox.com
-js-agent.newrelic.com
 
 # Unlisted
 buy.geni.us # https://www.pcworld.com/article/3317848/storage/the-spacious-1tb-sandisk-ultra-ssd-is-one-of-the-best-drives-you-can-buy-and-its-cheaper-than-ever.html
@@ -1073,7 +1046,6 @@ c.apple.com
 images2015.cnblogs.com
 assets.gumroad.com
 www.ipify.org
-graph.facebook.com
 tools.pingdom.com
 s.reddit.com
 api.intsig.net
@@ -1109,7 +1081,6 @@ api.coinbase.com
 # Pusher
 mqtt.pushy.me
 ws-mt1.pusher.com
-ws.pusherapp.com
 ws-zeplin.pusher.com
 
 # Hackmd.io
@@ -1149,7 +1120,6 @@ cdn.samsungcloudsolution.com
 #device-metrics-us.amazon.com
 
 # Chan
-8ch.net
 4chan.org
 
 # Utorrent
