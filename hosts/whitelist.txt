@@ -101,9 +101,7 @@ k8s-jena.schneevonmorgen.com
 cs837.wac.edgecastcdn.net
 
 # Mailjet Short url for Email tracking 
-mjt.lu
 mljt.tech
-xqqyu.mjt.lu
 
 # a.run.app
 a.run.app
@@ -940,14 +938,10 @@ app.adjust.com
 attach2.mobile01.com
 blog.csdn.net # China forum 
 c.trello.com # Trello content
-cdn.gigya.commes.122.2o7.net
 cdn.gotraffic.net
 cp76677.edgefcs.net
 dw.com.com
 f.youku.com
-georiot.com
-go.trafficrouter.io
-go.trouter.io
 i.cmpnet.com
 ichnaea-web.netflix.com # Fast speedtest 
 inapcache.boston.com
@@ -961,17 +955,11 @@ o.aolcdn.com
 p.jwpcdn.com
 playerstatic.entropymedia.com
 promotions.newegg.com
-redirect.viglink.com
 release.theplatform.com
 safe.txmblr.com
 sas.ooyala.com
 static.networkedblogs.com
-survey.forseeresults.com
-target.georiot.com
-trafficrouter.io
 use.fontawesome.com # Font-awesome CDN
-viarnd.112.2o7.net
-viglink.com
 widgets.twimg.com
 www-tc.pbs.org
 www.ojrq.net
@@ -1025,7 +1013,6 @@ d9hhrg4mnvzow.cloudfront.net
 down.sandai.net
 download.intsig.net
 e1151.e12.akamaiedge.net
-go.redirectingat.com
 google.qualtrics.com
 h-sdk.online-metrix.net
 he.net # DNS provider
@@ -1041,7 +1028,6 @@ ns1.com # domain name provider/ dns
 profile.target.com # target.com
 pull.ticktick.com
 r.mail.ru
-redirectingat.com
 redsky.target.com # target.com
 s.reddit.com
 sslshare.gshifen.com
@@ -1055,9 +1041,7 @@ www.ipify.org
 www.kcsoftwares.com
 www.loggly.com
 www.miaminewtimes.com
-www.redirectingat.com
 www.roadandtrack.com
-www.skimresources.com
 www.squaretrade.com
 
 a90.g.akamai.net # www.dorkly.com
@@ -1085,7 +1069,6 @@ ws-zeplin.pusher.com
 
 # Hackmd.io
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
-r.us-east-1.awstrack.me # use as hackmd email tracker
 
 # Bugsnag
 # sessions.bugsnag.com # Realtime tracking, if you need this
