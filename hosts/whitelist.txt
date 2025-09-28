@@ -150,19 +150,8 @@ pubsub.googleapis.com
 # Google Photos
 people-pa.googleapis.com
 
-# Whitelist from user @What-Zit-Tooya
-pagead2.googlesyndication.com
-crunchyroll.adtrackers.net
-serve.adtrackers.net
-crunchyroll.bannertrack.net
-cst.cstwpush.com
-yahoo.adnetasia.com
-
 # Sharethis.com
 platform.sharethis.com
-
-# herominers.com
-wownero.herominers.com
 
 # Apple OCSP
 #ocsp.apple.com
@@ -200,16 +189,9 @@ valimail.actonservice.com
 ci61.actonsoftware.com
 forpci61.actonsoftware.com
 
-# Goatcounter https://gc.zgo.at/count.js
-gc.zgo.at
-
 # MS Azure functionality, thanks to @mmwvh
 breeze.aimon.applicationinsights.io
 dc-ppe.trafficmanager.net # CNAME
-
-api.loganalytics.io
-api.monitor.azure.com # CNAME
-draftprodoms.trafficmanager.net #CNAME
 
 # Email service, thanks to @LinuxPanda
 cloudmail17.netcore.co.in
@@ -295,7 +277,6 @@ ftp.tsukuba.wide.ad.jp
 
 # Nokia image asset 
 d3orhvfyxudxxq.cloudfront.net # CNAME images.ctfassets.net
-
 
 # wangbase.com 阮一峰
 www.wangbase.com
@@ -459,16 +440,6 @@ kopimi.com
 
 # ipredator
 ipredator.se
-
-# 163 China
-static.ws.126.net
-static.3001.net
-pimg1.126.net
-
-# Statcounter
-gs.statcounter.com
-statcounter.com
-www.statcounter.com
 
 # Xiaomi
 au.ff.avast.sec.miui.com # Xiaomi security app
@@ -747,8 +718,6 @@ instagram.c10r.facebook.com
 z-m.c10r.facebook.com # CNAME of l.facebook.com
 web.facebook.com # Messenger Lite able to send out message
 z-1.c10r.facebook.com # Messenger Lite able to send out message
-# Facebook's pixel is required for clicking on notifications
-# pixel.facebook.com # still controversial
 origincache-atn.fbcdn.net
 res.cloudinary.com # for upload picture
 h.facebook.com
@@ -826,19 +795,6 @@ metok.sys.miui.com
 data.mistat.xiaomi.com
 api.jr.mi.com
 resolver.msg.xiaomi.ne
-
-# Amazon Web Services
-concierge.analytics.console.aws.a2z.com # Amazon Console unified search 
-pinpoint.us-east-1.amazonaws.com # Amazon console
-mas-ext.amazon.com # Amazon shopping on firetv stick
-s3.amazonaws.com #amazon S3 bucket
-s3-1.amazonaws.com #amazon S3 bucket
-c.media-amazon.com # IMDB
-fls-na.amazon.com # IMDB
-api.amazonalexa.com  #firetv stick
-dcape-na.amazon.com  # firetv stick
-arcus-uswest.amazon.com # firetv stick
-msh.amazon.com #firetv stick
 
 # Link Shortners Openphish, Hostsfile.org
 ppt.cc
