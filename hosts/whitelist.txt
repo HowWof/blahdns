@@ -638,7 +638,6 @@ static.xx.fbcdn.net
 z-m.facebook.com
 
 # Mozilla
-incoming.telemetry.mozilla.org
 location.services.mozilla.com
 meta.wikimedia.org
 push.services.mozilla.com
