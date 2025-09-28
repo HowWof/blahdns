@@ -488,7 +488,6 @@ www.googleapis.com
 
 # CircleCI uses pusher for actual functionality in their app
 js.pusher.com
-stats.pusher.com
 ws.pusherapp.com
 
 # NCSoft uses this
