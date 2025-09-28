@@ -59,11 +59,6 @@ gw.line.naver.jp # will break line pay, line points
 nelo2-col.linecorp.com # break line message loading
 today.line.me.edgekey.net # Line Today
 
-# app.github.media
-p04e.t.en25.com
-s88570519.t.en25.com
-t.en25.com
-
 # weworkremotely.com
 weworkremotely.com
 
