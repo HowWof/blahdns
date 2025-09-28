@@ -68,20 +68,11 @@ t.en25.com
 # weworkremotely.com
 weworkremotely.com
 
-# GeoJS
-geojs.io
-
 # Fathom
 usefathom.com
 
-# Flex
-click.justwatch.com
-
 # koyu.space
 koyu.space
-
-# Email tracking moengage.com
-api-02.moengage.com
 
 # goplay.be
 message.sp-prod.net # Cname viervijf-be.goplay.be
@@ -103,9 +94,6 @@ api.geetest.com
 # Tunein 
 traffic.megaphone.fm # stream fix
 traffic.eks.megaphone.cloud
-
-# Crypto.com app customer support
-ruozuwky-android.mobile-messenger.intercom.com
 
 # svmaudio.com
 k8s-jena.schneevonmorgen.com
@@ -139,11 +127,6 @@ media-expl1.licdn.com # Linkedin app avatar
 # Wirex.com
 ws-eu.pusher.com
 
-# Respectable Crypto
-ethermine.org
-unmineable.com
-2miners.com
-
 # Google GCP
 pubsub.googleapis.com
 
@@ -154,15 +137,12 @@ people-pa.googleapis.com
 platform.sharethis.com
 
 # Apple OCSP
-#ocsp.apple.com
-#ocsp2.apple.com
+ocsp.apple.com
+ocsp2.apple.com
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 #token.safebrowsing.apple
 #safebrowsing.g.aaplimg.com
-
-# mihoyo.com
-log-upload-os.mihoyo.com
 
 # Sogo Input
 pgdt.gtimg.cn
@@ -173,9 +153,6 @@ guanjia.qq.com
 qq-web.cdn-go.cn
 appcfg.v.qq.com
 tangram-config.gdt.qq.com
-
-# QQ 
-static-res.qq.com
 
 # Wechat
 shminorshort.weixin.qq.com
@@ -227,7 +204,6 @@ serviceusage.googleapis.com
 anthos.googleapis.com
 compute.googleapis.com
 monitoring.googleapis.com
-logging.googleapis.com 
 cloudtrace.googleapis.com
 meshca.googleapis.com
 meshtelemetry.googleapis.com
@@ -309,9 +285,6 @@ cdn2.hubspot.net
 # Formstack
 formstack.com
 
-# Lucky Orange: Dynamic Heatmaps, Visitor Recordings
-www.luckyorange.com # Official site
-
 # IBM watson internet of things
 messaging.internetofthings.ibmcloud.com
 internetofthings.ibmcloud.com
@@ -321,9 +294,6 @@ vortex.accuweather.com
 
 # ACM Journals 
 delivery.acm.org
-
-# Alexa
-traffic.alexa.com # Showing Alexa ranking chart
 
 # Buy me a coffee
 www.buymeacoffee.com
@@ -407,21 +377,6 @@ gm.mmstat.com
 gm.gds.mmstat.com
 phs.tanx.com
 
-# Alicdn
-assets.alicdn.com
-i.alicdn.com
-us-aebridge.aliexpress.com.gds.alibabadns.com
-fr.aliexpress.com
-aeu.alicdn.com
-cdp.aliexpress.com
-passport.alipay.com
-gpsfront.aliexpress.com
-aeis.alicdn.com
-feedback.aliexpress.com
-coupon.aliexpress.com
-promotion.aliexpress.com
-freight.aliexpress.com
-
 # UOB bank
 uob.sc.omtrdc.net
 
@@ -441,81 +396,11 @@ kopimi.com
 # ipredator
 ipredator.se
 
-# Xiaomi
-au.ff.avast.sec.miui.com # Xiaomi security app
-update.miui.com
-connect.rom.miui.com # captive_portal
-zhuti.xiaomi.com
-fr.app.chat.global.xiaomi.net
-metok-ccc.intl.xiaomi.com
-resolver.msg.global.xiaomi.net 
-weatherapi.market.xiaomi.com
-bgp.fe01.c3.xiaomi.com # Xiaomi login
-abroad.apilocate.amap.com # Miband 4 weather location
-api.io.mi.com
-app.chat.global.xiaomi.net
-data.mistat.intl.xiaomi.com
-data.mistat.xiaomi.com
-o.data.mistat.xiaomi.com 
-weatherapi.market.xiaomi.com
-find.api.micloud.xiaomi.net
-account.xiaomi.com
-api.ad.xiaomi.com
-api.account.xiaomi.com
-api.chat.xiaomi.net
-api.comm.miui.com
-api.device.xiaomi.net
-api.micloud.xiaomi.net
-api.sec.miui.com
-api.vip.miui.com
-app.chat.xiaomi.net
-app.migc.xiaomi.com
-authbe.sec.intl.miui.com
-c.id.mi.com
-connect.rom.miui.com
-contactapi.micloud.xiaomi.net
-f1.g.mi.com
-file.market.xiaomi.com
-game.xiaomi.com
-global.market.xiaomi.com
-global.search.xiaomi.net
-market.xiaomi.com
-micardapi.micloud.xiaomi.net
-micloud.xiaomi.net
-mis.migc.xiaomi.com
-mp.huangye.miui.com
-o2o.api.xiaomi.com
-pdc.micloud.xiaomi.net
-phonecallapi.micloud.xiaomi.net
-ppurifier.game.xiaomi.com
-r.sg.sec.miui.com
-resolver.gslb.mi-idc.com
-resolver.msg.xiaomi.net
-sfsapi.micloud.xiaomi.net
-sgpac.account.xiaomi.com
-statusapi.micloud.xiaomi.net
-t1.g.mi.com
-trial.api.huangye.miui.com
-update.avlyun.sec.miui.com
-update.intl.miui.com
-update.miui.com
-wallpaper.pandora.xiaomi.com
-wifiapi.micloud.xiaomi.net
-
-# Skype
-client-s.gateway.messenger.live.com #skype login
-
-# Ali Express
-ae01.alicdn.com
-my.aliexpress.com
-
 # VK.com
 pp.userapi.com
 
 # Twitter
 cdn.syndication.twimg.com # Embeded twitt
-cdn.syndication.twitter.com
-syndication.twimg.com
 pbs.twimg.com # twitter image
 
 # Pushbullet
@@ -632,8 +517,6 @@ cdn3.optimizely.com
 unpkg.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
-ipinfo.io
-ipapi.co
 cdn.ravenjs.com
 links.iterable.com
 cdn.flurry.com
@@ -982,13 +865,11 @@ z.cdn.turner.com
 # OCSP-Servers 
 ocsp.digicert.com
 ocsp.verisign.com
-#a652.dscb.akamai.net # CNAME of ocsp.comodoca.com
+ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
 ocsp.int-x4.letsencrypt.org
 ocsp.int-x2.letsencrypt.org
 ocsp.int-x1.letsencrypt.org
-#ocsp.apple.com
-ocsp.comodoca.com
 ocsp.comodoca4.com
 ocsp.globalsign.com
 ocsp.godaddy.com
@@ -1016,9 +897,6 @@ q.stripe.com # stripe
 de.ioam.de
 config.ioam.de
 api.ebay-kleinanzeigen.de
-
-# Allow only segment.com main site
-segment.com
 
 # Walmart email tracking shipping 
 rptrcks.walmart.com
