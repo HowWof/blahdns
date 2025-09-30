@@ -12,6 +12,10 @@ jnn-pa.googleapis.com
 # picsart.com
 api.picsart.com
 
+# free-dc.org
+free-dc.org
+stats.free-dc.org
+
 # issue #310
 scholar.google.com
 
