@@ -230,11 +230,6 @@ d3orhvfyxudxxq.cloudfront.net # CNAME images.ctfassets.net
 # wangbase.com
 www.wangbase.com
 
-# Foodpanda chat
-api3.siftscience.com
-dashboard.zopim.com
-jp06.zopim.com
-
 # Zaloapp
 api.zaloapp.com # Sticker cant load
 zaloapp.com
